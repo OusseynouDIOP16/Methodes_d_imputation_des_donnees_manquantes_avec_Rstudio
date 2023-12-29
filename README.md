@@ -1,0 +1,5 @@
+L'objectif de cette étude est d'expliquer l'application des méthodes d'imputation classiques sur le logiciel R.
+Les données utilisées, provenant du jeu de données Ames Housing, sont accessibles directement sur R.
+Les données du jeu Ames Housing proviennent d'une enquête sur les logements à Ames, Iowa, aux États-Unis. Ce jeu de données est souvent utilisé dans le domaine de l'apprentissage machine et de la statistique pour illustrer des concepts tels que la régression et l'imputation de données. Il contient une variété d'informations sur différentes propriétés résidentielles, notamment des caractéristiques physiques, des informations sur la vente, et divers autres attributs.
+
+Les variables incluses dans le jeu de données Ames Housing couvrent un large éventail de aspects d'une propriété, tels que la surface habitable, la qualité de la construction, la présence de sous-sol, le type de chauffage, le nombre de chambres à coucher, et bien plus encore. Ces données variées en font une ressource précieuse pour explorer et appliquer diverses techniques statistiques, y compris des méthodes d'imputation classiques, dans le contexte de l'analyse de données résidentielles.
